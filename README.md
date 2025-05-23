@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="sc4.png" alt="Arayüz Görseli" width="700"/>
+  <img src="s4.png" alt="Arayüz Görseli" width="700"/>
 </p>
 
 ---
