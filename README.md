@@ -1,35 +1,42 @@
-# Ryna Code - PAK Unpacker
+<h1 align="center">Ryna Code - PAK Unpacker</h1>
 
-![Logo](ryna.png)
+<p align="center">
+  <img src="ryna.png" alt="Ryna Code Logo" width="200"/>
+</p>
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/github/license/SethConfig/SethF)
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue.svg"/>
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey"/>
+  <img src="https://img.shields.io/github/license/SethConfig/SethF"/>
+</p>
 
 ---
 
- ![Arayüz](sc3.png)
+<p align="center">
+  <img src="sc3.png" alt="Arayüz Görseli" width="700"/>
+</p>
 
 ---
 
-**Ryna Code - PAK Unpacker**, `.pak` uzantılı dosyaları Zstandard algoritması ile açmanıza yardımcı olan basit, hızlı ve temalı bir Windows uygulamasıdır.
+## ✨ Tanıtım
+
+**Ryna Code - PAK Unpacker**, `.pak` uzantılı dosyaları **Zstandard algoritması** ile hızlıca ve pratik bir şekilde ayıklamanızı sağlayan, temalı ve kullanıcı dostu bir **Windows** uygulamasıdır.
 
 ---
 
 ## 🖥️ Özellikler
 
-- ✅ Kolay kullanımlı grafik arayüz (GUI)
-- 🌙 Koyu / ☀️ Açık tema desteği
-- 📦 Zstandard sözlük desteği (otomatik çıkarma)
-- 🚀 Çoklu iş parçacığı ile hızlı işlem
-- 📁 `.pak` dosyalarını `.dat` olarak çıkarır
-- 🔗 Telegram üzerinden destek bağlantısı
-
+- ✅ Kullanımı kolay ve modern **grafik arayüz (GUI)**
+- 🌗 **Açık / Koyu tema** desteği
+- 📦 Otomatik **Zstandard sözlük** kullanımı
+- 🚀 **Çoklu iş parçacığı** desteği ile yüksek hız
+- 📁 `.pak` dosyalarını `.dat` olarak dışa aktarma
+- 🔗 **Telegram** üzerinden topluluk desteği
 ---
 
-## 🔧 Kurulum ve Çalıştırma
+## ⚙️ Kurulum ve Kullanım
 
-### 1. Adım: Gerekli bağımlılığı yükleyin
+### 1. Gereksinimleri Yükleyin
 
 ```bash
 pip install -r requirements.txt
@@ -37,16 +44,13 @@ pip install -r requirements.txt
 
 ---
 
-## Uygulamayı çalıştırın
-- RynaCode.exe dosyasına çift tıklayarak uygulamayı başlatın.
-- Açılan arayüzde:
-- .pak dosyasını seçin
-- Çıkış klasörünü belirtin
-- UNPACK butonuna tıklayın
-- Uygulama, .pak içindeki verileri otomatik olarak ayrıştırır ve .dat dosyaları halinde belirtilen klasöre kaydeder.
+## 📬 Destek & İletişim
+
+Her türlü geri bildirim, öneri veya destek talepleriniz için:
+
+**Telegram Kanalı:** [https://t.me/rynacode](https://t.me/rynacode)
 
 ---
 
-## 📬 Destek & İletişim
-- Geri bildirimde bulunmak, hata bildirmek veya destek almak için:
-Telegram Kanalı: https://t.me/rynacode
+> Geliştirici: **SethConfig**  
+> Lisans: MIT License
