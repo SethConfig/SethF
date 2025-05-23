@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue.svg"/>
   <img src="https://img.shields.io/badge/platform-Windows-blue"/>
-  <img src="https://img.shields.io/github/license/SethConfig/SethF?color=0000FF"/>
+  <img src="https://img.shields.io/github/license/SethConfig/SethF?color=blue"/>
 </p>
 
 ---
