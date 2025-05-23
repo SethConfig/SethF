@@ -8,7 +8,7 @@
 
 ---
 
- ![Arayüz](sc2.png)
+ ![Arayüz](sc3.png)
 
 ---
 
