@@ -15,8 +15,6 @@
 
 ---
 
----
-
 **Reyna Code - PAK Unpacker**, `.pak` uzantılı dosyaları Zstandard algoritması ile açmanıza yardımcı olan basit, hızlı ve temalı bir Windows uygulamasıdır.
 
 ---
