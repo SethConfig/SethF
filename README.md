@@ -1,4 +1,4 @@
-# Reyna Code - PAK Unpacker
+# Ryna Code - PAK Unpacker
 
 ![Logo](ryna.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-**Reyna Code - PAK Unpacker**, `.pak` uzantılı dosyaları Zstandard algoritması ile açmanıza yardımcı olan basit, hızlı ve temalı bir Windows uygulamasıdır.
+**Ryna Code - PAK Unpacker**, `.pak` uzantılı dosyaları Zstandard algoritması ile açmanıza yardımcı olan basit, hızlı ve temalı bir Windows uygulamasıdır.
 
 ---
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ---
 
 ## Uygulamayı çalıştırın
-- ReynaCode.exe dosyasına çift tıklayarak uygulamayı başlatın.
+- RynaCode.exe dosyasına çift tıklayarak uygulamayı başlatın.
 - Açılan arayüzde:
 - .pak dosyasını seçin
 - Çıkış klasörünü belirtin
