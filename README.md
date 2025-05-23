@@ -8,9 +8,10 @@
 
 ---
 
-📸 ![Giriş ](sc1.png)
+ ![Giriş ](sc1.png)
 
-📸 ![Arayüz](sc2.png)
+
+ ![Arayüz](sc2.png)
 
 ---
 
