@@ -1,6 +1,6 @@
 # Reyna Code - PAK Unpacker
 
-![Logo](reyna.png)
+![Logo](ryna.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
